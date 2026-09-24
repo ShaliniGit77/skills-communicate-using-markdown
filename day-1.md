@@ -1,3 +1,10 @@
+First|Second
+-|-
+1|2
+3|4
+
+> This is quoted text.
+
 # Daily Learning
 ## Morning Planning
 
